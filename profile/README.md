@@ -1,10 +1,9 @@
 # Extension.js
 
-Build browser extensions for Chrome, Firefox, Edge, and Safari.
+<img align="right" width="17.5%" alt="Browsers" src="https://github.com/user-attachments/assets/faf312b5-cde7-4a71-a1af-28904e040b5f" />
 
-Extension.js provides a single workflow to create, develop, build, and preview cross-browser extensions.
 
-<img alt="Logo" align="right" src="https://avatars.githubusercontent.com/u/172809806" width="9%" />
+Extension.js provides a single workflow to create, develop, build, and preview cross-browser extensions. Build browser extensions for Chromium, Chrome, Edge, and Firefox.
 
 - [Get started](https://github.com/extension-js/extension.js): Create a new extension with `npx extension@latest create my-extension`.
 - [Read the docs](https://github.com/extension-js/extension.js.org): Learn the workflow, APIs, and core concepts.
@@ -19,7 +18,7 @@ Extension.js provides a single workflow to create, develop, build, and preview c
 
 ## Community
 
-- [Discussions](https://github.com/extension-js/extension.js/discussions): Ask questions and discuss the product.
+- [Discussions](https://github.com/extension-js/extension.js/discussions): Ask questions and discuss the tool.
 - [Discord](https://discord.gg/v9h2RgeTSN): Join the community.
 - [Security policy](https://github.com/extension-js/.github/blob/main/SECURITY.md): Report security issues privately.
 - [Open Collective](https://opencollective.com/extensionjs): Support the project.
