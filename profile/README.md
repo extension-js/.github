@@ -1,7 +1,6 @@
 # Extension.js
 
-<img align="right" width="17.5%" alt="Browsers" src="https://github.com/user-attachments/assets/faf312b5-cde7-4a71-a1af-28904e040b5f" />
-
+<img align="right" width="15%" alt="Browsers" src="https://github.com/user-attachments/assets/faf312b5-cde7-4a71-a1af-28904e040b5f" />
 
 Extension.js provides a single workflow to create, develop, build, and preview cross-browser extensions. Build browser extensions for Chromium, Chrome, Edge, and Firefox.
 
