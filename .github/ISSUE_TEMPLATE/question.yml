@@ -1,0 +1,32 @@
+name: Question
+description: Ask for help.
+title: "[Question]: "
+labels:
+  - question
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form if you need help and are not sure where to start. For broader discussion, use GitHub Discussions.
+  - type: textarea
+    id: question
+    attributes:
+      label: What do you need help with?
+      placeholder: Describe what you are trying to do and where you got stuck.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Extension.js version
+      placeholder: e.g. 3.9.3
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: macOS 15, Node 20, pnpm 10, Firefox 136
+  - type: textarea
+    id: attempted
+    attributes:
+      label: What have you tried already?
+      placeholder: Include commands, config, docs pages, or examples you already checked.

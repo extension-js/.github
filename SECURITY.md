@@ -1,6 +1,6 @@
-# Security Policy
+# Security policy
 
-## Reporting Security Issues
+## Reporting security issues
 
 If you believe you’ve found a security vulnerability in Extension.js, we encourage you to report it right away.
 

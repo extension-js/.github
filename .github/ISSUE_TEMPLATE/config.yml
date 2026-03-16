@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub discussions
+    url: https://github.com/extension-js/extension.js/discussions
+    about: Ask usage questions, start product discussions, or share ideas.
+  - name: Discord
+    url: https://discord.gg/v9h2RgeTSN
+    about: Get community help and chat with other Extension.js users.
+  - name: Security policy
+    url: https://github.com/extension-js/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately instead of opening a public issue.

@@ -1,0 +1,52 @@
+name: Bug report
+description: Report a bug you can reproduce.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting this. If possible, include a minimal reproduction.
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the behavior you observed.
+      placeholder: Describe the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the shortest set of steps that reproduces the problem.
+      placeholder: |
+        1. Run ...
+        2. Open ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: Describe the behavior you expected.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Extension.js version
+      placeholder: e.g. 3.9.3
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Include your OS, Node.js version, package manager, and browser if relevant.
+      placeholder: macOS 15, Node 20, pnpm 10, Chrome 134
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add logs, screenshots, stack traces, or a repro repository if you have them.
