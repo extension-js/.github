@@ -1,3 +1,5 @@
+<a href="https://extension.js.org"><img alt="Extension.js — the cross-browser extension framework" src="https://media.extension.land/brand/extension-js/social/github-banner.png" /></a>
+
 # The cross-browser extension framework
 
 <img align="right" width="15%" alt="Browsers" src="https://github.com/user-attachments/assets/faf312b5-cde7-4a71-a1af-28904e040b5f" />
